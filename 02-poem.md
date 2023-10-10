@@ -1,8 +1,10 @@
+# Mo Zhao Ming
 
-### Mo Zhao Ming
-#### Verses on Serene Reflection
-##### by Master Hongzhi Zhengjue (1091-1157)
-*translator unknown*
+### Verses on Serene Reflection
+
+#### by Master Hongzhi Zhengjue (1091-1157)
+
+_translator unknown_
 
 In silence and serenity one forgets all words  
 Clearly and vividly THAT appears before one  

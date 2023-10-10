@@ -1,97 +1,76 @@
+# Biography {epub:type=appendix}
 
-Venerable Phra Rājabuddhivaraguṇa
-(Amaro Bhikkhu)
-The Abbot of Amaravati Buddhist Monastery
-United Kingdom
+## Venerable Phra Rājabuddhivaraguṇa
 
-Lay name J.C.J. Horner.
+## (Amaro Bhikkhu)
 
-Born September 1956, England.
+### The Abbot of Amaravati Buddhist Monastery
 
-Education Received BSc in Psychology and Physiology
-with Honours from University of London.
+### United Kingdom
 
-1978
+##### Lay name
 
-Took up residence at Wat Pah Nanachat, in the
-lineage of Ven. Ajahn Chah in Ubon Province,
-North-east Thailand.
+J.C.J. Horner.
 
-1979
+##### Born
 
-April – Ordained as a bhikkhu (Upasampadā),
-Phra Bodhiyana Thera (Luang Por Chah Subhaddo)
-was his preceptor.
-October – returned to England to join Ven. Ajahn
-Sumedho at Wat Pah Cittaviveka, a newly founded
-forest monastery in Chithurst, West Sussex.
+September 1956, England.
 
-1983
+##### Education
 
-Journeyed 830 miles on foot to the newly opened
-Harnham Vihāra (now called Aruna Ratanagiri
-Monastery) in Northumberland and spent 2 years
-there.
+Received BSc in Psychology and Physiology with Honours from University of London.
 
-1985
+##### 1978
 
-Was invited to Amaravati Buddhist Monastery by
-Luang Por Sumedho, to help with teaching and
-administration.
+Took up residence at Wat Pah Nanachat, in the lineage of Ven. Ajahn Chah in Ubon Province, North-east Thailand.
 
-1990
+##### 1979
 
-Was invited to start coming to the USA,
-spending a few months each year teaching there.
+**April** – Ordained as a bhikkhu (_Upasampadā_), Phra Bodhiyana Thera (Luang Por Chah Subhaddo) was his preceptor.  
+**October** – returned to England to join Ven. Ajahn Sumedho at Wat Pah Cittaviveka, a newly founded forest monastery in Chithurst, West Sussex.
 
-1996
+##### 1983
 
-June – established Abhayagiri Monastery,
-California.
+Journeyed 830 miles on foot to the newly opened Harnham Vihāra (now called Aruna Ratanagiri Monastery) in Northumberland and spent 2 years there.
 
-1997
+##### 1985
 
-Led the community of Abhayagiri Monastery in
-collaboration with Ven. Ajahn Pasanno, as co-abbots.
+Was invited to Amaravati Buddhist Monastery by Luang Por Sumedho, to help with teaching and administration.
 
-2004
+##### 1990
 
-Spent one year visiting the Buddhist holy places
-in India, Nepal, and Bhutan.
+Was invited to start coming to the USA, spending a few months each year teaching there.
 
-2010
+##### 1996
 
-Returned to England and took up the role of abbot
-at Amaravati, on the retirement of the founding
-abbot, Ven. Ajahn Sumedho.
+June – established Abhayagiri Monastery, California.
 
-2011
+##### 1997
 
-Was granted permission to be an upajjhāya
-(ordination preceptor).
+Led the community of Abhayagiri Monastery in collaboration with Ven. Ajahn Pasanno, as co-abbots.
 
-2015
+##### 2004
 
-Along with Ajahn Pasanno, Ajahn Amaro was
-honoured by the King of Thailand with the
-ecclesiastical title ‘Chao Khun’. Together with this
-honour he was given the name ‘Videsabuddhiguṇa’.
+Spent one year visiting the Buddhist holy places in India, Nepal, and Bhutan.
 
-2019
+##### 2010
 
-Along with Ajahn Pasanno, Ajahn Amaro was
-honoured by the King of Thailand with the
-ecclesiastical title ‘Chao Khun Rāja’. Together with this
-honour he was given the name ‘Rājabuddhivaraguṇa’.
+Returned to England and took up the role of abbot at Amaravati, on the retirement of the founding abbot, Ven. Ajahn Sumedho.
 
-Ajahn Amaro has written or edited more than 30 books, including
-an account of an 830-mile trek from Chithurst to Harnham Vihara
-called Tudong, other titles include: Small Boat, Great Mountain;
+##### 2011
 
-Rain on the Nile and The Pilgrim Kamanita; 5 books were
-co-written with Ajahn Pasanno, one of these is The Island - An
+Was granted permission to be an _upajjhāya_ (ordination preceptor).
 
-Anthology of the Buddhaʼs Teachings on Nibbāna.
-His books have been translated to 9 languages; Thai, Sinhala,
-French, Spanish, Italian, German, Portuguese, Chinese and
-Vietnamese.
+##### 2015
+
+Along with Ajahn Pasanno, Ajahn Amaro was honoured by the King of Thailand with the ecclesiastical title ‘Chao Khun’. Together with this honour he was given the name ‘Videsabuddhiguṇa’.
+
+##### 2019
+
+Along with Ajahn Pasanno, Ajahn Amaro was honoured by the King of Thailand with the ecclesiastical title ‘Chao Khun Rāja’. Together with this honour he was given the name ‘Rājabuddhivaraguṇa’.
+
+---
+
+Ajahn Amaro has written or edited more than 30 books, including an account of an 830-mile trek from Chithurst to Harnham Vihara called _Tudong_, other titles include: _Small Boat, Great Mountain_; _Rain on the Nile_ and _The Pilgrim Kamanita_; 5 books were co-written with Ajahn Pasanno, one of these is _The Island - An Anthology of the Buddhaʼs Teachings on Nibbāna_.
+
+His books have been translated to 9 languages; Thai, Sinhala, French, Spanish, Italian, German, Portuguese, Chinese and Vietnamese.

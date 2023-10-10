@@ -1,0 +1,58 @@
+section.titlepage h1 {
+  font-size: 2em;
+  text-align: center;
+  padding-top: 4em;
+}
+
+section.titlepage h2 {
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+section#section p,
+section#section-1 p {
+  text-align: center;
+  margin-top: 40pt;
+}
+
+section#serenity-is-the-final-word h3 {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.1rem;
+  text-align: center;
+  font-weight: bold;
+}
+
+h5 {
+  font-size: 1em;
+  font-weight: bold;
+}
+
+h5 {
+  margin-bottom: 0;
+}
+h5 + p {
+  margin-top: 0;
+}
+
+div.center {
+  text-align: center;
+}
+
+div.space4 {
+  height: 80pt;
+}
+
+blockquote {
+  /* text-align: right; */
+  font-size: 0.9em;
+  font-style: italic;
+  /* max-width: 65%; */
+}
+

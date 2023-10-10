@@ -1,0 +1,16 @@
+---
+title:
+- type: main
+  text: Serenity Is the Final Word
+description: Reflections on upekkhā (equanimity), based on a Dhamma talk given at Amaravati Monastery in April 2020.
+author: Ajahn Amaro
+date: 2022
+creator:
+- role: author
+  text: Ajahn Amaro
+cover-image: assets/cover.jpg
+rights: © Amaravati Buddhist Monastery, CC BY-NC-ND 4.0
+lang: en-GB
+keywords: Ajahn Amaro, Buddhism, Dhamma, Meditation, Equanimity, Upekkha
+identifier: 978-616-593-738-2
+...
