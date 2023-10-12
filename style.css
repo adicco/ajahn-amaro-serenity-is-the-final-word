@@ -9,11 +9,11 @@ section.titlepage h2 {
   text-align: center;
 }
 
-section#section p,
-section#section-1 p {
-  text-align: center;
-  margin-top: 40pt;
-}
+/* section#section p, */
+/* section#section-1 p { */
+/*   text-align: center; */
+/*   margin-top: 40pt; */
+/* } */
 
 section#serenity-is-the-final-word h3 {
   text-align: center;
@@ -56,3 +56,59 @@ blockquote {
   /* max-width: 65%; */
 }
 
+/* Titlepage */
+section#dedication p,
+section#prologue p {
+  text-align: center;
+  margin-top: 100pt;
+}
+section#dedication h1,
+section#prologue h1 {
+  display: none;
+}
+
+/* Poem */
+
+section#mo-zhao-ming h1,
+section#mo-zhao-ming h3,
+section#mo-zhao-ming h4 {
+  text-align: center;
+  margin-bottom: 0;
+}
+section#mo-zhao-ming h3 {
+  margin-top: 0.2em;
+}
+section#mo-zhao-ming h4 {
+  margin-top: 0.3em;
+}
+
+section#mo-zhao-ming section p:first-of-type {
+  text-align: center;
+  margin-top: 0.2em;
+}
+
+/* Bio page */
+section#biography > h1 {
+  margin-bottom: 0;
+}
+
+section#biography > p:first-of-type {
+  text-align: center;
+}
+
+section#biography section.level2 > h2 {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+section#biography section.level4 > h4 {
+  text-align: center;
+  font-weight: normal;
+}
+section#biography section.level4:first-of-type > h4 {
+  margin-bottom: 0;
+}
+
+section#biography section.level4:nth-of-type(2) > h4 {
+  margin-top: 0.1em;
+}

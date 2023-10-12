@@ -12,10 +12,10 @@ ISBN 978-616-593-738-2
 Copyright © Amaravati Publications  
 Cover Image: Adobe Stock/377861036/C Buddhivaro
 
-Amaravati Buddhist Amaravati
-St. Margarets, Great Gaddesden, Hemel Hempstead,
-Hertfordshire, HP1 3BZ, United Kingdom
-Tel. +44(0)1442-842-455
+Amaravati Buddhist Amaravati  
+St. Margarets, Great Gaddesden, Hemel Hempstead,  
+Hertfordshire, HP1 3BZ, United Kingdom  
+Tel. +44(0)1442-842-455  
 www.amaravati.org
 
 This book is available for free download at [https://media.amaravati.org](https://media.amaravati.org)

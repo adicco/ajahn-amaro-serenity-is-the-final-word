@@ -1,12 +1,16 @@
 # Biography {epub:type=appendix}
 
+![](assets/ajahn_amaro.jpg)
+
 ## Venerable Phra Rājabuddhivaraguṇa
 
 ## (Amaro Bhikkhu)
 
-### The Abbot of Amaravati Buddhist Monastery
+#### The Abbot of Amaravati Buddhist Monastery
 
-### United Kingdom
+#### United Kingdom
+
+---
 
 ##### Lay name
 

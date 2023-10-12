@@ -19,6 +19,6 @@ pandoc \
 	03-bio.md \
 	99-copyright.md 
 
-#epubcheck "$BUILD_DIR/$OUTPUT"
+epubcheck "$BUILD_DIR/$OUTPUT"
 
-#$KINDLEGEN_PATH $BUILD_DIR/$OUTPUT -c1 -o ${FILENAME%.epub}.mobi
+$KINDLEGEN_PATH $BUILD_DIR/$OUTPUT -c1 -o ${FILENAME%.epub}.mobi
