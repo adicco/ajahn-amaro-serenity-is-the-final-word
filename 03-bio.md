@@ -31,7 +31,7 @@ Took up residence at Wat Pah Nanachat, in the lineage of Ven. Ajahn Chah in Ubon
 ##### 1979
 
 **April** – Ordained as a bhikkhu (_Upasampadā_), Phra Bodhiyana Thera (Luang Por Chah Subhaddo) was his preceptor.  
-**October** – returned to England to join Ven. Ajahn Sumedho at Wat Pah Cittaviveka, a newly founded forest monastery in Chithurst, West Sussex.
+**October** – Returned to England to join Ven. Ajahn Sumedho at Wat Pah Cittaviveka, a newly founded forest monastery in Chithurst, West Sussex.
 
 ##### 1983
 
@@ -47,7 +47,7 @@ Was invited to start coming to the USA, spending a few months each year teaching
 
 ##### 1996
 
-June – established Abhayagiri Monastery, California.
+**June** – established Abhayagiri Monastery, California.
 
 ##### 1997
 
