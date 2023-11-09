@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 KINDLEGEN_PATH="/home/adicco/kindlegen"
 BUILD_DIR="./build"
-FILENAME="Ajahn_Amaro_-_Serenity_is_the_Final_Word_v1_0.epub"
+FILENAME="Ajahn_Amaro_-_Serenity_is_the_Final_Word_v1_2.epub"
 OUTPUT=${1:-$FILENAME}
 echo "generating $BUILD_DIR/$OUTPUT"
 
